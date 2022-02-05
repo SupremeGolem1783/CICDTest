@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites name='CICDTestProjTests.xctest' tests='8' failures='4'>
+  <testsuite name='CICDTestProjUITests.CICDTestProjUITests' tests='2' failures='0'>
+    <testcase classname='CICDTestProjUITests.CICDTestProjUITests' name='testExample' time='6.156'/>
+    <testcase classname='CICDTestProjUITests.CICDTestProjUITests' name='testLaunchPerformance' time='87.036'/>
+  </testsuite>
+  <testsuite name='CICDTestProjUITests.CICDTestProjUITestsLaunchTests' tests='4' failures='4'>
+    <testcase classname='CICDTestProjUITests.CICDTestProjUITestsLaunchTests' name='testLaunch'>
+      <failure message='*** -[__NSCFString stringByAppendingPathExtension:]: nil argument (NSInvalidArgumentException)'>CICDTestProjUITests/CICDTestProjUITestsLaunchTests.swift:27</failure>
+    </testcase>
+    <testcase classname='CICDTestProjUITests.CICDTestProjUITestsLaunchTests' name='testLaunch'>
+      <failure message='*** -[__NSCFString stringByAppendingPathExtension:]: nil argument (NSInvalidArgumentException)'>CICDTestProjUITests/CICDTestProjUITestsLaunchTests.swift:27</failure>
+    </testcase>
+    <testcase classname='CICDTestProjUITests.CICDTestProjUITestsLaunchTests' name='testLaunch'>
+      <failure message='*** -[__NSCFString stringByAppendingPathExtension:]: nil argument (NSInvalidArgumentException)'>CICDTestProjUITests/CICDTestProjUITestsLaunchTests.swift:27</failure>
+    </testcase>
+    <testcase classname='CICDTestProjUITests.CICDTestProjUITestsLaunchTests' name='testLaunch'>
+      <failure message='*** -[__NSCFString stringByAppendingPathExtension:]: nil argument (NSInvalidArgumentException)'>CICDTestProjUITests/CICDTestProjUITestsLaunchTests.swift:27</failure>
+    </testcase>
+  </testsuite>
+  <testsuite name='CICDTestProjTests.CICDTestProjTests' tests='2' failures='0'>
+    <testcase classname='CICDTestProjTests.CICDTestProjTests' name='testExample' time='0.010'/>
+    <testcase classname='CICDTestProjTests.CICDTestProjTests' name='testPerformanceExample' time='0.347'/>
+  </testsuite>
+</testsuites>

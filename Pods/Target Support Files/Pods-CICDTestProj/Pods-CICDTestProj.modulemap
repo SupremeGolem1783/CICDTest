@@ -1,0 +1,6 @@
+framework module Pods_CICDTestProj {
+  umbrella header "Pods-CICDTestProj-umbrella.h"
+
+  export *
+  module * { export * }
+}
